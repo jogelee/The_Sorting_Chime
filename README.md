@@ -1,4 +1,4 @@
-# the_sorting_chime
+# The_Sorting_Chime
 
 I was a chimesmaster during college (https://chimes.cornell.edu/) and once a semester ~10 of us would pick preferences for the weekly concert schedule. There are 21 concerts a week (7 days * (morning, afternoon, evening)) and each chimesmaster would be assigned 1-3 weekly concerts. What typically happened was we'd have a group dinner before the beginnning of the semester, and the head chimesmaster would take everyone's preferences and fill up the 21 concerts by hand, basically solving a logic puzzle.
 
