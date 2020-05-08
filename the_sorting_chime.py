@@ -1,5 +1,5 @@
 # The Sorting Chime v2
-# John Lee
+# by John Lee
 
 # Description: This program takes input through a crude GUI and produces all
 # possible schedules based on how many/what kinds of concerts each chimesmaster
